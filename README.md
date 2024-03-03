@@ -1,2 +1,2 @@
 # House-price-prediction-project-ML
-Machine Learning Project of House price prediction for any particular locality.
+This project serves users seeking residences in distant locations by furnishing them with approximate cost estimations for prospective new homes. By offering insights into real estate prices in different locales, it assists individuals in assessing financial considerations associated with relocation.
